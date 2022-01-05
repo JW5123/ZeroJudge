@@ -1,1 +1,1 @@
-Store some exercise questions
+ZeroJudge_Practice
